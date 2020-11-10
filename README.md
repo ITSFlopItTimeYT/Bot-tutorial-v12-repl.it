@@ -16,13 +16,13 @@ npm init -y
 ```
 ## Making config.json and .env file
 Config.json
-```json
+```bash
 {
 prefix: (prefix),
 }
 ```
 .env file
-```env
+```bash
 token=(bot-token)
 ```
 
